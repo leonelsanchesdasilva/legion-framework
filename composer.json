@@ -8,7 +8,8 @@
         }
     ],
     "require": {
-        "phplegends/legion": "dev-master"
+        "phplegends/legion": "dev-master",
+        "monolog/monolog": "^2.1"
     },
 
     "autoload" : {
